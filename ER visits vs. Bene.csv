@@ -1,0 +1,205 @@
+Bene_Geo_Lvl,Bene_Geo_Desc,Bene_Geo_Cd,Bene_Age_Lvl,Bene_Demo_Lvl,Bene_Demo_Desc,Bene_Cond,Prvlnc,Tot_Mdcr_Stdzd_Pymt_PC,Tot_Mdcr_Pymt_PC,Hosp_Readmsn_Rate,ER_Visits_Per_1000_Benes,is_southern
+State,Massachusetts,25,All,All,All,17,0.0369,22118.6886,27506.9482,0.2717,2496.1313,non-southern
+State,Minnesota,27,All,All,All,17,0.034,20792.5457,23837.8387,0.2521,2553.2131,non-southern
+State,Maine,23,All,All,All,17,0.0323,18588.5125,19944.8218,0.2298,2275.5535,non-southern
+State,Rhode Island,44,All,All,All,17,0.0317,19374.0278,22720.9484,0.2913,2189.5973,non-southern
+State,District of Columbia,11,All,All,All,17,0.0316,25296.7132,31806.1758,0.3114,3699.4158,southern
+State,Alaska,2,All,All,All,17,0.0307,19015.0311,27744.3449,0.2065,2018.4403,non-southern
+State,Connecticut,9,All,All,All,17,0.0289,23084.3103,28170.1328,0.2694,2484.6085,non-southern
+State,Vermont,50,All,All,All,17,0.0279,16723.3857,20296.6493,0.2263,1957.8059,non-southern
+State,New Hampshire,33,All,All,All,17,0.0275,19931.6813,22927.99,0.2499,2046.8599,non-southern
+State,Oregon,41,All,All,All,17,0.0255,18454.3037,21703.3588,0.2183,2127.5188,non-southern
+State,Michigan,26,All,All,All,17,0.0252,23480.0919,25110.6351,0.2621,2364.8101,non-southern
+State,Wisconsin,55,All,All,All,17,0.0239,20495.2891,21912.0774,0.2377,2125.9102,non-southern
+State,Nevada,32,All,All,All,17,0.0238,28870.3168,33311.6347,0.2939,2835.8597,non-southern
+State,New Mexico,35,All,All,All,17,0.0233,20430.7119,22393.7769,0.2413,2251.1593,non-southern
+State,Florida,12,All,All,All,17,0.0232,27106.5036,27364.4815,0.2747,2030.4755,southern
+State,California,6,All,All,All,17,0.0215,25617.0342,34132.9987,0.2839,2558.2373,non-southern
+State,Washington,53,All,All,All,17,0.0213,19918.9405,22922.7727,0.2273,2092.0462,non-southern
+State,Colorado,8,All,All,All,17,0.0211,21195.833,23149.6354,0.2126,2205.1334,non-southern
+State,Delaware,10,All,All,All,17,0.021,22986.3391,26266.8915,0.2367,2139.6994,southern
+State,Indiana,18,All,All,All,17,0.0208,24017.1708,24898.8031,0.2453,2177.8901,non-southern
+State,New York,36,All,All,All,17,0.0205,22833.561,29053.5395,0.281,2216.7256,non-southern
+State,North Carolina,37,All,All,All,17,0.0205,22445.1016,23521.1942,0.2447,2368.7332,southern
+State,West Virginia,54,All,All,All,17,0.0205,22470.9194,22808.9896,0.2661,2385.9339,southern
+State,Ohio,39,All,All,All,17,0.0202,24586.8995,25409.7853,0.2589,2217.1711,non-southern
+State,Montana,30,All,All,All,17,0.0199,20219.4688,21964.6855,0.2018,2047.1079,non-southern
+State,Maryland,24,All,All,All,17,0.0198,23905.1271,31763.4613,0.2827,2624.0404,southern
+State,Pennsylvania,42,All,All,All,17,0.0198,24421.1415,27195.7295,0.2641,2204.1051,non-southern
+State,North Dakota,38,All,All,All,17,0.0196,20311.4959,20983.2136,0.2175,2194.2827,non-southern
+State,New Jersey,34,All,All,All,17,0.0193,25279.8919,30606.986,0.2607,2254.6811,non-southern
+State,Idaho,16,All,All,All,17,0.0192,21094.2006,21801.2705,0.1959,2082.2785,non-southern
+State,Louisiana,22,All,All,All,17,0.0191,29589.8113,29148.8274,0.2414,2587.4297,southern
+State,Missouri,29,All,All,All,17,0.019,24338.6491,24565.8925,0.2675,2307.6529,non-southern
+State,Arizona,4,All,All,All,17,0.0189,24561.1065,27150.4733,0.2435,1920.4706,non-southern
+State,Georgia,13,All,All,All,17,0.0189,25816.8446,26135.918,0.2545,2341.8989,southern
+State,Alabama,1,All,All,All,17,0.0188,25102.3405,23348.6039,0.2413,2184.7557,southern
+State,Kentucky,21,All,All,All,17,0.0188,24650.4701,24533.6877,0.2594,2355.5679,southern
+State,Virginia,51,All,All,All,17,0.0186,23472.3734,24391.22,0.2506,2227.112,southern
+State,Mississippi,28,All,All,All,17,0.0184,27642.2971,26376.4142,0.249,2476.8862,southern
+State,Texas,48,All,All,All,17,0.0182,29179.706,30115.784,0.2671,2201.1513,southern
+State,Illinois,17,All,All,All,17,0.0179,26079.2486,28554.6477,0.2801,2346.5002,non-southern
+State,South Dakota,46,All,All,All,17,0.0178,21657.8919,23264.3042,0.2263,1971.7235,non-southern
+State,Wyoming,56,All,All,All,17,0.0177,20685.4656,24518.6332,0.1973,2215.1231,non-southern
+State,South Carolina,45,All,All,All,17,0.0172,24271.616,24402.3112,0.2304,2244.2151,southern
+State,Tennessee,47,All,All,All,17,0.0172,24858.9993,23905.8828,0.2444,2317.6061,southern
+State,Oklahoma,40,All,All,All,17,0.0164,26983.4456,26697.0466,0.2588,2438.9042,southern
+State,Iowa,19,All,All,All,17,0.0163,20460.7847,21160.8779,0.2371,2161.4152,non-southern
+State,Kansas,20,All,All,All,17,0.0159,23966.5617,23515.6466,0.2273,2236.2672,non-southern
+State,Hawaii,15,All,All,All,17,0.0155,16621.1427,21899.1397,0.247,2018.7573,non-southern
+State,Arkansas,5,All,All,All,17,0.0149,24889.7994,23706.3924,0.2622,2339.7122,southern
+State,Nebraska,31,All,All,All,17,0.0143,24534.9282,25597.4211,0.2451,1984.8008,non-southern
+State,Utah,49,All,All,All,17,0.014,21412.5169,22520.4017,0.2187,2089.956,non-southern
+State,District of Columbia,11,All,All,All,24,0.1387,25674.8811,30877.3164,0.2556,1741.6546,southern
+State,Connecticut,9,All,All,All,24,0.1289,23696.1524,28649.1376,0.227,1635.3899,non-southern
+State,Texas,48,All,All,All,24,0.1262,30396.6828,30385.3085,0.2212,1549.1441,southern
+State,Florida,12,All,All,All,24,0.1261,28259.5634,28137.6897,0.2303,1551.8973,southern
+State,New York,36,All,All,All,24,0.1223,24747.5475,31432.9658,0.2374,1461.3351,non-southern
+State,Louisiana,22,All,All,All,24,0.1203,30341.6524,28461.2312,0.2211,1709.8526,southern
+State,New Jersey,34,All,All,All,24,0.12,25827.3318,30771.3633,0.2287,1456.2928,non-southern
+State,Michigan,26,All,All,All,24,0.1168,26025.169,27290.3719,0.2397,1691.4292,non-southern
+State,Arkansas,5,All,All,All,24,0.1157,24014.0958,22171.1135,0.2154,1530.3726,southern
+State,Alabama,1,All,All,All,24,0.114,25051.8813,22554.0576,0.2119,1410.8355,southern
+State,Maryland,24,All,All,All,24,0.1129,23782.0469,29599.1437,0.2439,1524.1348,southern
+State,Massachusetts,25,All,All,All,24,0.1119,25403.0799,30869.9459,0.2467,1668.3596,non-southern
+State,Missouri,29,All,All,All,24,0.111,23915.0897,23450.5388,0.2256,1529.5725,non-southern
+State,Indiana,18,All,All,All,24,0.1103,24936.5265,25096.7843,0.2125,1514.1871,non-southern
+State,Mississippi,28,All,All,All,24,0.11,28800.4515,26490.9288,0.221,1714.8349,southern
+State,Kansas,20,All,All,All,24,0.1094,23774.5175,22992.6568,0.1984,1405.9672,non-southern
+State,Oklahoma,40,All,All,All,24,0.1075,27394.2911,26138.3301,0.2162,1692.1044,southern
+State,Pennsylvania,42,All,All,All,24,0.1071,24623.5416,26237.8329,0.2202,1470.4567,non-southern
+State,Tennessee,47,All,All,All,24,0.1071,25306.8701,23667.5083,0.2153,1548.5642,southern
+State,Georgia,13,All,All,All,24,0.107,24799.9195,24476.0868,0.2247,1573.1967,southern
+State,Illinois,17,All,All,All,24,0.1065,26692.6834,28355.7876,0.2336,1624.0722,non-southern
+State,Nebraska,31,All,All,All,24,0.1055,20437.4167,21097.7851,0.1869,1153.5666,non-southern
+State,Hawaii,15,All,All,All,24,0.1048,15919.9807,19996.6476,0.1596,1248.1536,non-southern
+State,California,6,All,All,All,24,0.1047,25625.7932,33052.3705,0.2297,1496.2582,non-southern
+State,Ohio,39,All,All,All,24,0.104,26130.2172,26160.3808,0.2251,1618.6902,non-southern
+State,Virginia,51,All,All,All,24,0.1039,23154.5292,23595.9754,0.2158,1621.6892,southern
+State,North Carolina,37,All,All,All,24,0.1038,22807.385,23120.2949,0.2153,1683.8169,southern
+State,Kentucky,21,All,All,All,24,0.1026,25479.7192,24609.3633,0.2314,1735.4958,southern
+State,West Virginia,54,All,All,All,24,0.1014,25190.5941,24656.6526,0.2406,1811.3772,southern
+State,Rhode Island,44,All,All,All,24,0.0987,22766.5426,25902.3508,0.2318,1605.5579,non-southern
+State,Nevada,32,All,All,All,24,0.097,29858.8517,34145.1959,0.2582,1711.4733,non-southern
+State,Maine,23,All,All,All,24,0.096,20438.6254,21445.6238,0.1974,1665.3382,non-southern
+State,Iowa,19,All,All,All,24,0.0956,18314.302,18553.5542,0.1803,1310.6854,non-southern
+State,Minnesota,27,All,All,All,24,0.0955,20419.289,22956.4931,0.2155,1467.0914,non-southern
+State,South Carolina,45,All,All,All,24,0.0948,24284.6285,23804.556,0.2165,1558.2482,southern
+State,Delaware,10,All,All,All,24,0.093,24268.8914,26988.2808,0.2152,1577.5764,southern
+State,North Dakota,38,All,All,All,24,0.0917,16699.7192,17122.5487,0.1842,1173.3032,non-southern
+State,New Hampshire,33,All,All,All,24,0.0913,22283.9775,24957.1419,0.2042,1493.8326,non-southern
+State,Wisconsin,55,All,All,All,24,0.0901,20672.7229,21792.4053,0.1987,1519.9467,non-southern
+State,Washington,53,All,All,All,24,0.0892,18810.7568,21448.7609,0.1862,1479.1875,non-southern
+State,Utah,49,All,All,All,24,0.0882,21701.0528,22273.6992,0.167,1194.2589,non-southern
+State,Colorado,8,All,All,All,24,0.0868,21497.5068,22881.8012,0.1856,1424.8476,non-southern
+State,New Mexico,35,All,All,All,24,0.0851,21448.0626,22479.6062,0.206,1563.6733,non-southern
+State,Idaho,16,All,All,All,24,0.0833,20855.841,21022.458,0.1717,1389.2365,non-southern
+State,South Dakota,46,All,All,All,24,0.0819,18795.8067,19330.6432,0.1859,1200.1367,non-southern
+State,Alaska,2,All,All,All,24,0.081,17488.8888,24696.9428,0.1934,1477.5837,non-southern
+State,Oregon,41,All,All,All,24,0.081,18293.1657,21313.4045,0.1867,1628.399,non-southern
+State,Vermont,50,All,All,All,24,0.0803,18934.4467,22272.1016,0.1963,1528.3651,non-southern
+State,Montana,30,All,All,All,24,0.0795,17602.2064,18688.2225,0.1662,1328.565,non-southern
+State,Arizona,4,All,All,All,24,0.0794,22943.3448,24497.6976,0.2018,1436.1567,non-southern
+State,Wyoming,56,All,All,All,24,0.077,18790.7284,21637.2145,0.1736,1445.8693,non-southern
+State,Alabama,1,All,All,All,32,0.3897,15827.493,14403.578,0.1775,998.3314,southern
+State,Mississippi,28,All,All,All,32,0.3856,17186.3576,15942.837,0.1886,1190.3636,southern
+State,Oklahoma,40,All,All,All,32,0.3768,17300.3174,16612.8337,0.1784,1114.0099,southern
+State,Florida,12,All,All,All,32,0.3751,17363.2543,17331.8388,0.1919,959.9024,southern
+State,West Virginia,54,All,All,All,32,0.3692,15586.2944,15281.1294,0.2045,1241.4667,southern
+State,Kentucky,21,All,All,All,32,0.3686,15841.9696,15296.68,0.1987,1149.4633,southern
+State,Michigan,26,All,All,All,32,0.3617,16536.9235,17211.2631,0.1986,1157.1665,non-southern
+State,Ohio,39,All,All,All,32,0.3606,16463.3791,16495.4811,0.19,1116.123,non-southern
+State,Louisiana,22,All,All,All,32,0.3595,18282.4061,17242.7869,0.1888,1170.1542,southern
+State,Tennessee,47,All,All,All,32,0.3592,15829.9059,14915.2115,0.1833,1011.3144,southern
+State,Missouri,29,All,All,All,32,0.3568,15877.1692,15525.072,0.1899,1059.0715,non-southern
+State,New Jersey,34,All,All,All,32,0.3515,16116.3648,18839.5936,0.1893,908.3499,non-southern
+State,Pennsylvania,42,All,All,All,32,0.351,15771.9495,16623.8941,0.1871,958.9664,non-southern
+State,Indiana,18,All,All,All,32,0.3495,16274.5954,16286.1931,0.1821,1084.6249,non-southern
+State,Illinois,17,All,All,All,32,0.3492,17001.9906,17905.6766,0.1971,1065.0291,non-southern
+State,Delaware,10,All,All,All,32,0.3465,14481.0266,15929.1477,0.1688,890.7127,southern
+State,Maryland,24,All,All,All,32,0.3463,15662.6733,19032.4266,0.1972,1002.5437,southern
+State,Texas,48,All,All,All,32,0.3421,18809.0278,18770.7176,0.1851,1053.8895,southern
+State,Arizona,4,All,All,All,32,0.3369,14580.6261,15341.498,0.1597,863.9509,non-southern
+State,South Carolina,45,All,All,All,32,0.3369,14585.256,14245.2064,0.1675,917.025,southern
+State,Arkansas,5,All,All,All,32,0.3367,15941.578,14826.8532,0.1793,1024.8687,southern
+State,Georgia,13,All,All,All,32,0.3367,15564.8499,15303.9199,0.1886,1024.0904,southern
+State,North Carolina,37,All,All,All,32,0.3325,15041.9891,15165.0138,0.1804,1098.3938,southern
+State,Rhode Island,44,All,All,All,32,0.3316,15004.2305,16880.9671,0.2001,1001.955,non-southern
+State,Nebraska,31,All,All,All,32,0.3265,15787.6465,16111.4271,0.156,831.3784,non-southern
+State,Virginia,51,All,All,All,32,0.326,14805.5606,15037.2409,0.1755,1034.3463,southern
+State,New York,36,All,All,All,32,0.3232,15922.8855,19346.4151,0.1946,902.1173,non-southern
+State,Connecticut,9,All,All,All,32,0.3198,16417.4948,19506.7408,0.1894,1107.1116,non-southern
+State,Utah,49,All,All,All,32,0.3181,14365.1828,14662.8725,0.1254,786.8373,non-southern
+State,Kansas,20,All,All,All,32,0.3174,16494.2477,16025.8824,0.1675,970.4462,non-southern
+State,California,6,All,All,All,32,0.3118,15862.1478,19750.8565,0.1906,949.5653,non-southern
+State,Massachusetts,25,All,All,All,32,0.3109,15564.1627,18627.6656,0.1977,1060.2476,non-southern
+State,Colorado,8,All,All,All,32,0.3073,14946.1178,15754.0777,0.1407,903.1039,non-southern
+State,Nevada,32,All,All,All,32,0.3068,16782.8927,18670.498,0.2058,1058.1592,non-southern
+State,New Mexico,35,All,All,All,32,0.3043,13228.0745,13699.8522,0.1607,959.3994,non-southern
+State,Idaho,16,All,All,All,32,0.3028,14243.4059,14214.4563,0.1299,937.9033,non-southern
+State,District of Columbia,11,All,All,All,32,0.3026,16654.1098,19651.3707,0.2269,1415.8306,southern
+State,New Hampshire,33,All,All,All,32,0.2984,14595.4039,16384.7249,0.174,992.821,non-southern
+State,Iowa,19,All,All,All,32,0.2977,14058.408,14216.8561,0.1508,936.944,non-southern
+State,North Dakota,38,All,All,All,32,0.2954,14318.9943,14705.8718,0.1651,896.8279,non-southern
+State,Wisconsin,55,All,All,All,32,0.2942,14728.0459,15236.3093,0.1688,1057.0911,non-southern
+State,Vermont,50,All,All,All,32,0.2839,13099.8352,15411.6525,0.1596,1043.5387,non-southern
+State,South Dakota,46,All,All,All,32,0.2829,14425.7589,14860.7496,0.1503,788.1219,non-southern
+State,Oregon,41,All,All,All,32,0.2817,12836.1365,14330.4549,0.144,936.3133,non-southern
+State,Maine,23,All,All,All,32,0.2816,14819.7752,15472.0398,0.1675,1197.9453,non-southern
+State,Washington,53,All,All,All,32,0.2725,13420.672,14848.4753,0.1537,939.0315,non-southern
+State,Montana,30,All,All,All,32,0.2698,13547.7802,14178.1382,0.137,883.8798,non-southern
+State,Wyoming,56,All,All,All,32,0.2645,14502.7141,16308.9256,0.1394,951.6694,non-southern
+State,Minnesota,27,All,All,All,32,0.2534,15618.9578,17135.8764,0.1772,1145.8798,non-southern
+State,Alaska,2,All,All,All,32,0.2509,13042.4991,17562.9166,0.1499,942.7967,non-southern
+State,Hawaii,15,All,All,All,32,0.2129,11576.486,13822.3745,0.1548,831.6802,non-southern
+State,Rhode Island,44,All,All,All,92,0.0666,16911.8616,19287.4476,0.2296,1415.6963,non-southern
+State,Massachusetts,25,All,All,All,92,0.0653,19192.8171,23311.2545,0.2311,1783.5481,non-southern
+State,Connecticut,9,All,All,All,92,0.0647,20704.1525,24811.6154,0.2237,1847.7117,non-southern
+State,District of Columbia,11,All,All,All,92,0.061,21813.4805,26346.4606,0.2866,2754.6029,southern
+State,New York,36,All,All,All,92,0.0589,20042.629,25019.1536,0.2379,1501.8424,non-southern
+State,New Jersey,34,All,All,All,92,0.0575,20785.8225,24662.3148,0.2325,1497.4627,non-southern
+State,Hawaii,15,All,All,All,92,0.057,16027.3371,19447.3344,0.2086,1433.5888,non-southern
+State,Michigan,26,All,All,All,92,0.0555,21300.8214,22409.0474,0.2321,1903.3758,non-southern
+State,Maryland,24,All,All,All,92,0.054,20668.664,26078.1054,0.2356,1775.1307,southern
+State,Arizona,4,All,All,All,92,0.0538,18407.281,19516.3639,0.1809,1239.8557,non-southern
+State,Pennsylvania,42,All,All,All,92,0.0532,19959.1099,21568.096,0.2266,1590.9085,non-southern
+State,California,6,All,All,All,92,0.053,21031.6907,26889.3604,0.2284,1633.1378,non-southern
+State,Utah,49,All,All,All,92,0.0524,18787.7089,19361.6866,0.1487,1272.505,non-southern
+State,Delaware,10,All,All,All,92,0.0522,18729.9935,20959.7694,0.218,1467.3152,southern
+State,Florida,12,All,All,All,92,0.0519,21749.0306,21959.9228,0.2349,1473.0091,southern
+State,Virginia,51,All,All,All,92,0.0514,19384.2383,19825.1975,0.2109,1713.6834,southern
+State,Oklahoma,40,All,All,All,92,0.0511,22621.3869,22029.9428,0.2135,1830.147,southern
+State,West Virginia,54,All,All,All,92,0.0502,19303.3239,19136.328,0.2239,1880.9644,southern
+State,Alabama,1,All,All,All,92,0.0499,20560.6948,18914.5834,0.2117,1614.4483,southern
+State,Nevada,32,All,All,All,92,0.0497,21964.4632,24775.715,0.2492,1746.2938,non-southern
+State,Indiana,18,All,All,All,92,0.0487,21306.7335,21559.5608,0.2189,1834.2804,non-southern
+State,New Hampshire,33,All,All,All,92,0.0485,18114.0407,20471.2131,0.2069,1645.0197,non-southern
+State,Texas,48,All,All,All,92,0.0485,24044.9276,24319.3255,0.2213,1663.3977,southern
+State,Ohio,39,All,All,All,92,0.0483,21114.1308,21381.5401,0.217,1808.7508,non-southern
+State,New Mexico,35,All,All,All,92,0.0482,16280.9635,17107.2281,0.184,1424.2479,non-southern
+State,Wisconsin,55,All,All,All,92,0.0482,19753.5799,20695.237,0.2033,1892.2211,non-southern
+State,North Carolina,37,All,All,All,92,0.0476,19492.1081,19966.0175,0.2187,1872.2374,southern
+State,Georgia,13,All,All,All,92,0.047,19984.5877,19896.8712,0.2235,1633.916,southern
+State,Maine,23,All,All,All,92,0.0468,18472.273,19438.3715,0.2005,1947.1477,non-southern
+State,Illinois,17,All,All,All,92,0.0467,22756.5175,24466.0689,0.2435,1834.4283,non-southern
+State,South Carolina,45,All,All,All,92,0.0462,18853.9173,18572.45,0.2042,1498.1234,southern
+State,Minnesota,27,All,All,All,92,0.0459,20881.3345,23392.3608,0.2228,2270.3518,non-southern
+State,Missouri,29,All,All,All,92,0.0449,21118.002,20930.9366,0.2245,1814.2733,non-southern
+State,Colorado,8,All,All,All,92,0.0448,19602.6393,20788.6412,0.172,1513.224,non-southern
+State,Kentucky,21,All,All,All,92,0.0435,20232.5553,19697.9445,0.2222,1751.3574,southern
+State,Oregon,41,All,All,All,92,0.0435,18251.9027,20752.4281,0.1885,1656.0963,non-southern
+State,Vermont,50,All,All,All,92,0.0432,17024.2462,20379.6255,0.1915,1880.6608,non-southern
+State,Idaho,16,All,All,All,92,0.0424,19207.5811,19271.2054,0.1676,1613.8614,non-southern
+State,Washington,53,All,All,All,92,0.0424,18958.7009,21245.7652,0.1936,1712.0151,non-southern
+State,Tennessee,47,All,All,All,92,0.0423,20485.8782,19510.9699,0.2086,1540.8006,southern
+State,Kansas,20,All,All,All,92,0.0419,21489.3286,20987.146,0.1986,1732.8426,non-southern
+State,Mississippi,28,All,All,All,92,0.0412,22671.813,21259.1114,0.2106,1955.8132,southern
+State,Louisiana,22,All,All,All,92,0.0396,23687.3497,22777.0927,0.2126,1988.058,southern
+State,North Dakota,38,All,All,All,92,0.0389,19597.5241,20121.2578,0.1966,1650.1465,non-southern
+State,Arkansas,5,All,All,All,92,0.0388,21166.5668,19819.1828,0.2177,1683.0903,southern
+State,Iowa,19,All,All,All,92,0.0387,18598.734,18901.9601,0.1873,1685.3395,non-southern
+State,Montana,30,All,All,All,92,0.0365,18146.7706,19221.1385,0.1694,1513.9384,non-southern
+State,Nebraska,31,All,All,All,92,0.0357,21790.2769,22452.4522,0.204,1551.0741,non-southern
+State,South Dakota,46,All,All,All,92,0.0347,19246.5111,20050.0565,0.1889,1325.2762,non-southern
+State,Alaska,2,All,All,All,92,0.0346,19139.3286,26181.236,0.1972,1793.3856,non-southern
+State,Wyoming,56,All,All,All,92,0.0308,19559.3961,22345.5344,0.1735,1633.4796,non-southern
