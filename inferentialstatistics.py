@@ -11,6 +11,11 @@ df = pd.read_csv('https://raw.githubusercontent.com/daniloui001/datasci_5_statis
 
 chi2, p, dof, expected = chi2_contingency(df[['ER_Visits_Per_1000_Benes', 'Bene_Cond']])
 
+df['Bene_Cond'] = df['Bene_Cond'].apply(lambda x: 'Alcohol_Abuse' if x == 17 else 'Alcohol_Abuse')
+                                        
+                                        
+contingency_table = pd.crosstab(df['ER_Visits_Per_1000_Benes'], df['Bene_Cond'])
+
 print(f"Chi-Square Statistic: {chi2}")
 print(f"P-value: {p}")
 print(f"Degrees of Freedom: {dof}")
@@ -22,3 +27,5 @@ if p < alpha:
     print("There is a significant association between the categories.")
 else:
     print("There is no significant association between the categories.")
+
+print(contingency_table)
